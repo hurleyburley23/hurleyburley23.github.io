@@ -1,0 +1,161 @@
+/*
+	Author : Ashok
+	Website : http://responsivewebinc.com
+	********************************************
+	For Paid Support - Contact me.
+	********************************************
+*/
+		
+body{
+background:#333333;
+color:#6a6a6a;
+font-family: 'Signika', sans-serif;
+font-size:14px;
+line-height:22px;
+}
+
+h1{
+font-size:60px;
+font-weight:normal;
+font-family: 'Signika', sans-serif;
+padding:8px 0px;
+}
+
+h1 a{
+color:#6a6a6a !important;
+}
+
+h1 a:hover{
+text-decoration:none !important;
+}
+
+h2{
+font-weight:normal;
+line-height:25px;
+padding:10px 0px;
+}
+
+h3{
+color:#ffd926;
+font-size:22px;
+font-weight:normal;
+}
+
+h4{
+font-size:18px;
+padding:10px 5px;
+color:#ffd926;
+}
+
+img{
+margin:10px 0px;
+}
+
+a,a:visited{
+color:#fff;
+text-decoration:none;
+}
+
+a:hover{
+color:#ffe25b;
+text-decoration:none;
+}
+
+.fix{
+border-bottom:1px solid #666;
+margin-bottom:10px;
+}
+
+.bor{
+border-right:1px solid #666;
+}
+
+.padd{
+padding:5px 12px !important;
+}
+
+.padd-s{
+padding:5px 3px;
+}
+
+.promos a{
+margin-right:10px;
+}
+
+.content{
+background:#282828;
+}
+
+.logo{
+border-bottom:1px solid #eee;
+padding:15px 0px;
+margin-bottom:10px;
+}
+
+.logo p{
+padding:0 5px;
+}
+
+.main{
+background:#fafafa;
+}
+
+.main a{
+color:#000;
+}
+
+.pop .head{
+font-size:20px;
+font-weight:normal;
+color:#888;
+line-height:30px;
+border-bottom:1px solid #eee;
+padding-bottom:10px;
+}
+
+.side{
+color:#ccc;
+}
+
+.side ul{
+list-style-type:circle;
+margin-left:25px;
+}
+
+.sponsers{
+background:#444;
+}
+
+.sponsers img{
+padding:10px 15px;
+}
+
+/* Footer */
+
+footer{
+padding:20px 5px;
+font-size:13px;
+color:#ccc;
+}
+
+.biggy{
+font-size:20px;
+margin:5px 0px;
+}
+
+.biggy a{
+background:#666;
+color:#fff;
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+padding:2px 8px;
+}
+
+.biggy a:hover{
+text-decoration:none;
+}
+
+.attr{
+text-align:right;
+}
